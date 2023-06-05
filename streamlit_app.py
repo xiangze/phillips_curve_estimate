@@ -185,7 +185,7 @@ pp( px.line(unemploy_rate)
 # In[ ]:
 
 
-https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00450091&tstat=000001011429
+# https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00450091&tstat=000001011429
 
 
 # 反映が遅い？
